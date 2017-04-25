@@ -16,7 +16,7 @@
 #
 
 Name:           obs-testpackage
-Version:	0.0.0
+Version:	0.0.1
 Release:	0
 License:	GPL-2.0 and GPL-3.0
 Summary:	This package is only for testing services in open-build-service
