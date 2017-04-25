@@ -22,7 +22,7 @@ License:	GPL-2.0 and GPL-3.0
 Summary:	This package is only for testing services in open-build-service
 Url:		https://github.com/M0ses/obs-testpackage.git
 Group:		Productivity/Networking/Web/Utilities
-Source:		obs-testpackage.tar.xz
+Source:		%{name]-%{version}.tar.xz
 #Patch:
 #BuildRequires:
 #PreReq:
