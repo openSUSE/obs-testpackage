@@ -47,6 +47,7 @@ make install DESTDIR=%{buildroot} %{?_smp_mflags}
 %files
 %defattr(-,root,root)
 %doc README.md
+/non-existant-file
 
 %changelog
 
