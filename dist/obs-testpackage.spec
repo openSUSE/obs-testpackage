@@ -24,7 +24,7 @@ Url:		https://github.com/M0ses/obs-testpackage.git
 Group:		Productivity/Networking/Web/Utilities
 Source:		%{name}-%{version}.tar.xz
 #Patch:
-#BuildRequires:
+BuildRequires:  non-existant-package
 #PreReq:
 #Provides:
 BuildRoot:      %{_tmppath}/%{name}-%{version}-build
